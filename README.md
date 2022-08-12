@@ -21,3 +21,6 @@ Each desktop should automatically backup both the user profiles and OS to the Li
 ### **Connectivity:**
 The Windows 10 endpoint and Linux file server must be deployed to a shared LAN. Only the Windows 10 endpoint should be remotely accessible to the executive. Both systems should be remotely accessible to the MSP. The executives are non-technical users and will need GUI-based connectivity to Windows 10.
 
+## Key Documents
+[Trello Team Page](https://trello.com/invite/b/6YXkA0dt/24909b7d1252e147ac461d8b1967fec1/flyhomes-project)
+[Final Team Project Template](https://docs.google.com/presentation/d/15s95BLL5nRrK_WupYNMSvdJbcmsk_LAKN68w74IlTk4/edit?usp=sharing)
