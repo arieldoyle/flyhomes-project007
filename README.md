@@ -31,5 +31,6 @@ The Windows 10 endpoint and Linux file server must be deployed to a shared LAN. 
 
 - [Project Guidelines](https://github.com/codefellows/seattle-ops-201d5/blob/main/class-15/project-guidelines.md)
 - [Trello Team Page](https://trello.com/invite/b/6YXkA0dt/24909b7d1252e147ac461d8b1967fec1/flyhomes-project)
-- [Final Team Project Template](https://docs.google.com/presentation/d/15s95BLL5nRrK_WupYNMSvdJbcmsk_LAKN68w74IlTk4/edit?usp=sharing)
+- [Final Team Project PowerPoint](https://www.canva.com/design/DAFJs-8xogM/8t5HMYgd6RPgMiX_kPXtTA/view?utm_content=DAFJs-8xogM&utm_campaign=designshare&utm_medium=link&utm_source=viewer)
 - [Google Drive Project Folders/Files](https://drive.google.com/drive/folders/1fFDClTN8FfI-j8yJpDfZ3uRW1ffDn6rA)
+  - This is where all of our SLA, SOW, topology, and SOPs are held along with all of our other key documentation
